@@ -1,6 +1,19 @@
 # DeepLearning-azad
 هشت ساعت آموزش یادگیری ماشین و بینایی ماشین و یادگیری عمیق
 
+  
+
+<div class="panel panel-danger">
+**Warning**
+{: .panel-heading}
+<div class="panel-body">
+
+I highly recommend using newer workshop material:
+https://github.com/Alireza-Akhavan/SRU-deeplearning-workshop
+</div>
+</div>
+
+
 [slide1 ](https://www.slideshare.net/Alirezaakhavanpour/ss-123024613) ([mirror ](http://deepnn.ir/akhavanpour-azad/p1.pptx))
 |
 [Video1 ](https://www.aparat.com/v/WPgZ6)
